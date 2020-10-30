@@ -303,3 +303,27 @@ footer nav a {
   padding: 0 1%;
   padding-bottom: 20px;
 }
+
+.btn {
+  border-radius: 8px;
+  padding: 1% 2% 1% 2%;
+
+  border: 2px solid black;
+  background: white;
+  color: black;
+}
+
+.tile-content {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.tile {
+  width: 48%;
+  margin-bottom: 20px;
+  border-bottom: 1px dashed black;
+}
+
+.tile .text-container {
+  margin: 1% 0% 1% 0%;
+}
