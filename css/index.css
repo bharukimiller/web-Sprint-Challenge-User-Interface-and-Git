@@ -255,7 +255,7 @@ footer nav a {
 }
 
 .jumbo {
-  margin: 2% 1% 2% 3%;
+  margin: 2% 1% 2% 1%;
 }
 
 .b1 {
@@ -296,4 +296,10 @@ footer nav a {
 
 .b10 {
   background: dodgerblue;
+}
+
+.top-content .text-container.about-top {
+  width: 100%;
+  padding: 0 1%;
+  padding-bottom: 20px;
 }
